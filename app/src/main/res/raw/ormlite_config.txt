@@ -1,0 +1,41 @@
+# generated on 2012/06/06 05:55:57
+#
+# --table-start--
+dataClass=culun.app.blocksms.model.MySms
+tableName=MySms
+# --table-fields-start--
+# --field-start--
+fieldName=uid
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=id
+
+# --field-end--
+# --field-start--
+fieldName=body
+# --field-end--
+# --field-start--
+fieldName=fromnumber
+# --field-end--
+# --field-start--
+fieldName=tonumber
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+dataClass=culun.app.blocksms.model.MyContact
+tableName=MyContact
+# --table-fields-start--
+# --field-start--
+fieldName=uid
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=id
+# --field-end--
+# --field-start--
+fieldName=number
+# --field-end--
+# --table-fields-end--
+# --table-end--
